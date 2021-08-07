@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aorts
 - 👀 I’m interested in Python, C++, Kotlin
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Golang
 
 <!---
 Aorts/Aorts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
