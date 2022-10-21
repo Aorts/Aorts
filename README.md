@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aorts
-- 👀 I’m interested in Golang, Java, Kotlin, Python
+- 👀 I’m interested in Golang, Java, Node, Python
 - 🌱 I’m currently learning Golang
 
 <!---
