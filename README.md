@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aorts
 - 👀 I’m interested in Golang, Java, Node, Python, C#
-- 🌱 I’m currently learning C#,Golang
+- 🌱 I’m currently learning Golang
 
 <!---
 Aorts/Aorts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
