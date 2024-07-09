@@ -1,8 +1,6 @@
 <h2> Hi, There <img src="https://gist.github.com/brudnak/6c21505423e4ff089ab704ec79b5a096/raw/b2d3dec32474b2121b179920734b259323a7c250/go.gif" width="50"></h2>
 
 ---
-<p><em>B.Eng. (Computer Engineering) at <a href="https://www.psu.ac.th/">Prince of Songkla University</a> 
-</em></p>
 
 ---
 
