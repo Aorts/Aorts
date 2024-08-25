@@ -2,8 +2,6 @@
 
 ---
 
----
-
 ### Skills
 <p align="left">
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" width="50" height="50" alt="Golang" /></a>
