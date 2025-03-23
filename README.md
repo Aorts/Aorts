@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aorts</h1>
-<h3 align="center">Passionate about software development, stuff, etc.</h3>
+<h3 align="center">Passionate about Coding, stuff, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aorts&label=Profile%20views&color=0e75b6&style=flat" alt="Aorts" /> </p>
 
