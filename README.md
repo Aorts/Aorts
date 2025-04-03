@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aorts</h1>
+<h1 align="center">Hi 👋, I'm Aor</h1>
 <h3 align="center">Passionate about coding, stuff, etc.</h3>
 
 
