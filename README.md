@@ -2,7 +2,6 @@
 <h3 align="center">Passionate about coding, stuff, etc.</h3>
 
 
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aorts" alt="Aorts" /></a> </p>
 
 <p align="center"> - 🌱 I’m interested in Golang, Rust, Typescript</p>
