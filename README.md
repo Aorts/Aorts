@@ -49,8 +49,8 @@ var aor = Developer{
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aorts&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DC4E4&icon_color=BB9AF7&text_color=C0CAF5" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aorts&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DC4E4&text_color=C0CAF5&langs_count=8" alt="top languages" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aorts&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DC4E4&icon_color=BB9AF7&text_color=C0CAF5" alt="stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aorts&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DC4E4&text_color=C0CAF5&langs_count=8" alt="top languages" />
 
 <br/><br/>
 
