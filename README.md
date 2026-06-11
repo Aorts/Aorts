@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7DC4E4,100:BB9AF7&height=200&section=header&text=Hi%2C%20I%27m%20Aor&fontSize=70&fontColor=0D1117&animation=fadeIn&fontAlignY=38" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7DC4E4,100:BB9AF7&height=200&section=header&text=Hi%2C%20I%27m%20TS&fontSize=70&fontColor=0D1117&animation=fadeIn&fontAlignY=38" alt="header" />
 
 <a href="https://github.com/Aorts">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7DC4E4&center=true&vCenter=true&width=620&lines=Backend+developer;Golang+%E2%80%A2+Rust+%E2%80%A2+TypeScript;Build+small%2C+ship+often%2C+learn+always." alt="typing" />
